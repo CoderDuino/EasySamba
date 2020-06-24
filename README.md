@@ -1,6 +1,6 @@
-# EasySamba Auto-Configurer
-Easy configuration for Samba server
-
+# AutoSMB
+AutoSMB is a python terminal program that automatically configures your samba shares and users. <br />
+<br />
 > This is in beta and may damage your samba system! (I am not responsible)
 
 ## Running
